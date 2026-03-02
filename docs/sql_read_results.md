@@ -60,3 +60,17 @@
 ('Tariq Farouk', '2024A', 'Python Env', 2, 'submitted', 86.0)
 ('Yasmin Haddad', '2024A', 'Laptop Verify', 1, 'late', 65.0)
 ('Yousef Al-Ahmad', '2025A', 'Laptop Verify', 1, 'late', 52.0)
+
+## Interpretation
+
+**Question 1:** Which cohort had the highest average pre-work score? What might that tell you about how cohorts differ?
+
+The 2024A cohort has the highest average (81.8).
+
+**Question 2:** Looking at Query 2 results: how many students scored 80 or above? Does anything about their countries surprise you?
+
+There are 8 students who scored 80 or above and all from the middle east.
+
+**Question 3:** From the JOIN results (Query 4): choose one student and describe their project submission pattern. What does the data tell you about this learner?
+
+Aisha Al-Rashidi is a smart student
