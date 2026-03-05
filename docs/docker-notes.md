@@ -1,5 +1,9 @@
 # Docker Notes — Day 9
 
+## resource configuration
+
+![alt text](image.png)
+
 ## Docker Version
 
 docker -v
