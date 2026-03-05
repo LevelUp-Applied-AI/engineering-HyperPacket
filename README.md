@@ -1,4 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/g7vj6YXc)
+
 # AI.SPIRE Pre-Work — Phase 3: Engineering Practices
 
 **GitHub Classroom Phase 3 repo.** Days 6–9.
@@ -9,12 +10,12 @@ Phase 3 covers PR hygiene, pytest, SQL, and Docker — the engineering practices
 
 ## Phase overview
 
-| Day | PR | Topic |
-|-----|----|-------|
-| 6 | PR 5 | PR Hygiene: Template + Self-Review Checklist |
-| 7 | PR 6 | First Tests: Make 5 Failing Tests Pass |
-| 8 | PR 7 | SQLite Queries |
-| 9 | PR 8 | Docker + Postgres Container Validation |
+| Day | PR   | Topic                                        |
+| --- | ---- | -------------------------------------------- |
+| 6   | PR 5 | PR Hygiene: Template + Self-Review Checklist |
+| 7   | PR 6 | First Tests: Make 5 Failing Tests Pass       |
+| 8   | PR 7 | SQLite Queries                               |
+| 9   | PR 8 | Docker + Postgres Container Validation       |
 
 ---
 
@@ -28,3 +29,17 @@ source .venv/bin/activate   # Mac/Linux
 # or: source .venv/Scripts/activate  (Windows Git Bash)
 pip install -r requirements-prework.txt
 ```
+
+## How to run
+
+1. **Set up the environment** (activate virtual‑env and install deps):
+   ```bash
+   python -m venv .venv
+   source .venv/bin/activate   # macOS/Linux
+   # or: .venv\Scripts\activate  # Windows
+   pip install -r requirements-prework.txt
+   ```
+2. **Run the code**
+   pass
+3. **Confirm success**
+   pass
